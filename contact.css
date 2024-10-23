@@ -1,0 +1,40 @@
+form{
+    border: solid 1px;
+    width: 600px;
+    margin-left: 350px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: antiquewhite;
+    border-radius: 20px
+    
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: blue;
+}
+p{
+    text-align: center;
+    background-color: yellow;
+}
+label{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(201, 30, 39);
+}
+input{
+    height: 30px;
+    width: 300px;
+}
+textarea{
+    height: 100px;
+    width: 250px;
+}
+button{
+    color: rgb(82, 38, 165);
+    background-color: chartreuse;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: aliceblue;
+}
